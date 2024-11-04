@@ -95,7 +95,7 @@ nav ul li a:hover {
 .content .image img{
     width: 400%;
 }
-@media (min-width :950px) and (max-width:1150px){
+@media (min-width :200px) and (max-width:1150px){
 
 } 
 @media (max-width: 600px) {
